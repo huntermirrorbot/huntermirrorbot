@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Provaish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning TBH nothing
-- 💞️ I’m looking to collaborate read no 3
+- 👀 I’m interested in TBH nothing
+- 🌱 I’m currently learning read 2
+- 💞️ I’m looking to collaborate read 2
 - 📫 How to reach me - https://t.me/provasishh
 
 <!---
